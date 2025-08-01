@@ -11,6 +11,13 @@ tags: Wissensspeicher
 
 @diagnostik_image_tx: <img src="@0/@1" alt="@1" style="height: @2rem">
 
+@style
+img {
+ max-height: fit-content;
+}
+@end
+
+
 
 @Buegelsymbole.Buegeln_geringe_Temperatur.src: @diagnostik_url_tx/Buegelsymbole/Buegeln-geringe-Temperatur.jpg
 @Buegelsymbole.Buegeln_geringe_Temperatur: @diagnostik_image_tx(@diagnostik_url_tx,Buegelsymbole/Buegeln-geringe-Temperatur.jpg,@0)
