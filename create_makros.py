@@ -16,6 +16,13 @@ tags: Wissensspeicher
 @diagnostik_url_tx: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img
 
 @diagnostik_image_tx: <img src="@0/@1" alt="@1" style="height: @2rem">
+
+@style
+img {
+ max-height: fit-content;
+}
+@end
+
 '''
 
 location = 'https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md'
