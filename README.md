@@ -36,9 +36,9 @@ Alle Beispiele funktionieren nur mit LiaScript und nicht hier im Github! Bitte o
 
 ### einfach mit Makro:
 
-> `@Brandschutzzeichen.Richtungspfeil_Rechts(10)`
+> `@Waschsymbole.Handwaesche(10)`
 
-@Brandschutzzeichen.Richtungspfeil_Rechts(10)
+@Waschsymbole.Handwaesche(10)
 
 - aber Achtung Deutsche Umlaute sind ausgeschrieben! (ä=ae usw.)
 
@@ -47,23 +47,23 @@ Alle Beispiele funktionieren nur mit LiaScript und nicht hier im Github! Bitte o
 - funktioniert auch außerhalb von LiaScript!
 
 ```md
-![Beispielzeichen](https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/Brandschutzzeichen/Sicherheitszeichen_Brandschutz_Richtungspfeil_Rechts.jpg?raw=true)
+![Beispielzeichen](https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/Trocknersymbole/Trocknen.jpg?raw=true)<!-- style="height: 10rem;" -->
 ```
 
-![Beispielzeichen](https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/img/Brandschutzzeichen/Richtungspfeil_Rechts.jpg?raw=true)<!-- style="height: 10rem;" -->
+![Beispielzeichen](https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/Trocknersymbole/Trocknen.jpg?raw=true)<!-- style="height: 10rem;" -->
 
 ### Skalierung
 
 Der Parameter (die Zahl in den runden Klammern) steuert die Größe in Zeilenhöhe des Textes.
 
-> `@Gebotszeichen.Gehoerschutz(10)`
-@Gebotszeichen.Gehoerschutz(10)
+> `@Reinigungssymbole.Professionelle-reinigung(10)`
+@Reinigungssymbole.Professionelle-reinigung(10)
 
-> `@Gebotszeichen.Warnweste(5)`
-@Gebotszeichen.Warnweste(5)
+> `@Reinigungssymbole.Professionelle-reinigung(5)`
+@Reinigungssymbole.Professionelle-reinigung(5)
 
-> `@Gebotszeichen.Uebergang(1)`
-@Gebotszeichen.Uebergang(1)
+> `@Reinigungssymbole.Professionelle-reinigung(1)`
+@Reinigungssymbole.Professionelle-reinigung(1)
 
 ## Bildermakros
 
