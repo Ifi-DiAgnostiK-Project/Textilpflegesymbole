@@ -1,5 +1,5 @@
 <!--
-repository: "https://github.com/Ifi-DiAgnostiK-Project/Bildersammlung"
+repository: "https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole"
 author: "Volker Göhler, Niklas Werner"
 email: "volker.goehler@informatik.tu-freiberg"
 version: "0.2.4"
@@ -15,120 +15,120 @@ img {
 }
 @end
 
-@Bleichsymbole.Bleichen_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Bleichsymbole/Bleichen-erlaubt.jpg
-@Bleichsymbole.Bleichen_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Bleichsymbole/Bleichen-erlaubt.jpg,@0)
+@Bleichsymbole.Bleichen_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Bleichsymbole/Bleichen-erlaubt.jpg
+@Bleichsymbole.Bleichen_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Bleichsymbole/Bleichen-erlaubt.jpg,@0)
 
-@Bleichsymbole.Nicht_bleichen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Bleichsymbole/Nicht-bleichen.jpg
-@Bleichsymbole.Nicht_bleichen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Bleichsymbole/Nicht-bleichen.jpg,@0)
+@Bleichsymbole.Nicht_bleichen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Bleichsymbole/Nicht-bleichen.jpg
+@Bleichsymbole.Nicht_bleichen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Bleichsymbole/Nicht-bleichen.jpg,@0)
 
-@Bleichsymbole.Sauerstoffbleichen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Bleichsymbole/Sauerstoffbleichen.jpg
-@Bleichsymbole.Sauerstoffbleichen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Bleichsymbole/Sauerstoffbleichen.jpg,@0)
+@Bleichsymbole.Sauerstoffbleichen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Bleichsymbole/Sauerstoffbleichen.jpg
+@Bleichsymbole.Sauerstoffbleichen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Bleichsymbole/Sauerstoffbleichen.jpg,@0)
 
-@Buegelsymbole.Buegeln_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Buegelsymbole/Buegeln-erlaubt.jpg
-@Buegelsymbole.Buegeln_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Buegelsymbole/Buegeln-erlaubt.jpg,@0)
+@Buegelsymbole.Buegeln_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Buegelsymbole/Buegeln-erlaubt.jpg
+@Buegelsymbole.Buegeln_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Buegelsymbole/Buegeln-erlaubt.jpg,@0)
 
-@Buegelsymbole.Buegeln_geringe_Temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Buegelsymbole/Buegeln-geringe-Temperatur.jpg
-@Buegelsymbole.Buegeln_geringe_Temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Buegelsymbole/Buegeln-geringe-Temperatur.jpg,@0)
+@Buegelsymbole.Buegeln_geringe_Temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Buegelsymbole/Buegeln-geringe-Temperatur.jpg
+@Buegelsymbole.Buegeln_geringe_Temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Buegelsymbole/Buegeln-geringe-Temperatur.jpg,@0)
 
-@Buegelsymbole.Buegeln_hohe_temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Buegelsymbole/Buegeln-hohe-temperatur.jpg
-@Buegelsymbole.Buegeln_hohe_temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Buegelsymbole/Buegeln-hohe-temperatur.jpg,@0)
+@Buegelsymbole.Buegeln_hohe_temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Buegelsymbole/Buegeln-hohe-temperatur.jpg
+@Buegelsymbole.Buegeln_hohe_temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Buegelsymbole/Buegeln-hohe-temperatur.jpg,@0)
 
-@Buegelsymbole.Buegeln_mittlere_Temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Buegelsymbole/Buegeln-mittlere-Temperatur.jpg
-@Buegelsymbole.Buegeln_mittlere_Temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Buegelsymbole/Buegeln-mittlere-Temperatur.jpg,@0)
+@Buegelsymbole.Buegeln_mittlere_Temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Buegelsymbole/Buegeln-mittlere-Temperatur.jpg
+@Buegelsymbole.Buegeln_mittlere_Temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Buegelsymbole/Buegeln-mittlere-Temperatur.jpg,@0)
 
-@Buegelsymbole.buegeln_nicht_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Buegelsymbole/buegeln-nicht-erlaubt.jpg
-@Buegelsymbole.buegeln_nicht_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Buegelsymbole/buegeln-nicht-erlaubt.jpg,@0)
+@Buegelsymbole.buegeln_nicht_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Buegelsymbole/buegeln-nicht-erlaubt.jpg
+@Buegelsymbole.buegeln_nicht_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Buegelsymbole/buegeln-nicht-erlaubt.jpg,@0)
 
-@Reinigungssymbole.keine_chemische_reinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/keine-chemische-reinigung.jpg
-@Reinigungssymbole.keine_chemische_reinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/keine-chemische-reinigung.jpg,@0)
+@Reinigungssymbole.keine_chemische_reinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/keine-chemische-reinigung.jpg
+@Reinigungssymbole.keine_chemische_reinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/keine-chemische-reinigung.jpg,@0)
 
-@Reinigungssymbole.keine_professionelle_nassreinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/keine-professionelle-nassreinigung.jpg
-@Reinigungssymbole.keine_professionelle_nassreinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/keine-professionelle-nassreinigung.jpg,@0)
+@Reinigungssymbole.keine_professionelle_nassreinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/keine-professionelle-nassreinigung.jpg
+@Reinigungssymbole.keine_professionelle_nassreinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/keine-professionelle-nassreinigung.jpg,@0)
 
-@Reinigungssymbole.Professionelle_Nassreinigung_moeglich.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Professionelle-Nassreinigung-moeglich.jpg
-@Reinigungssymbole.Professionelle_Nassreinigung_moeglich: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Professionelle-Nassreinigung-moeglich.jpg,@0)
+@Reinigungssymbole.Professionelle_Nassreinigung_moeglich.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Professionelle-Nassreinigung-moeglich.jpg
+@Reinigungssymbole.Professionelle_Nassreinigung_moeglich: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Professionelle-Nassreinigung-moeglich.jpg,@0)
 
-@Reinigungssymbole.professionelle_Reinigung_mit_Kohlenwasserstoffloesungsmittel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/professionelle-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg
-@Reinigungssymbole.professionelle_Reinigung_mit_Kohlenwasserstoffloesungsmittel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/professionelle-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg,@0)
+@Reinigungssymbole.professionelle_Reinigung_mit_Kohlenwasserstoffloesungsmittel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/professionelle-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg
+@Reinigungssymbole.professionelle_Reinigung_mit_Kohlenwasserstoffloesungsmittel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/professionelle-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg,@0)
 
-@Reinigungssymbole.Professionelle_reinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Professionelle-reinigung.jpg
-@Reinigungssymbole.Professionelle_reinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Professionelle-reinigung.jpg,@0)
+@Reinigungssymbole.Professionelle_reinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Professionelle-reinigung.jpg
+@Reinigungssymbole.Professionelle_reinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Professionelle-reinigung.jpg,@0)
 
-@Reinigungssymbole.Reinigung_mit_Perchlorethylen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Reinigung-mit-Perchlorethylen.jpg
-@Reinigungssymbole.Reinigung_mit_Perchlorethylen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Reinigung-mit-Perchlorethylen.jpg,@0)
+@Reinigungssymbole.Reinigung_mit_Perchlorethylen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Reinigung-mit-Perchlorethylen.jpg
+@Reinigungssymbole.Reinigung_mit_Perchlorethylen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Reinigung-mit-Perchlorethylen.jpg,@0)
 
-@Reinigungssymbole.Schonende_professionelle_Nassreinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Schonende-professionelle-Nassreinigung.jpg
-@Reinigungssymbole.Schonende_professionelle_Nassreinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Schonende-professionelle-Nassreinigung.jpg,@0)
+@Reinigungssymbole.Schonende_professionelle_Nassreinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Schonende-professionelle-Nassreinigung.jpg
+@Reinigungssymbole.Schonende_professionelle_Nassreinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Schonende-professionelle-Nassreinigung.jpg,@0)
 
-@Reinigungssymbole.Schonende_Reinigung_mit_Kohlenwasserstoffloesungsmittel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Schonende-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg
-@Reinigungssymbole.Schonende_Reinigung_mit_Kohlenwasserstoffloesungsmittel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Schonende-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg,@0)
+@Reinigungssymbole.Schonende_Reinigung_mit_Kohlenwasserstoffloesungsmittel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Schonende-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg
+@Reinigungssymbole.Schonende_Reinigung_mit_Kohlenwasserstoffloesungsmittel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Schonende-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg,@0)
 
-@Reinigungssymbole.Schonende_Reinigung_mit_Perchlorethylen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Schonende-Reinigung-mit-Perchlorethylen.jpg
-@Reinigungssymbole.Schonende_Reinigung_mit_Perchlorethylen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Schonende-Reinigung-mit-Perchlorethylen.jpg,@0)
+@Reinigungssymbole.Schonende_Reinigung_mit_Perchlorethylen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Schonende-Reinigung-mit-Perchlorethylen.jpg
+@Reinigungssymbole.Schonende_Reinigung_mit_Perchlorethylen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Schonende-Reinigung-mit-Perchlorethylen.jpg,@0)
 
-@Reinigungssymbole.Sehr_schonende_professionelle_Nassreinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Sehr-schonende-professionelle-Nassreinigung.jpg
-@Reinigungssymbole.Sehr_schonende_professionelle_Nassreinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Sehr-schonende-professionelle-Nassreinigung.jpg,@0)
+@Reinigungssymbole.Sehr_schonende_professionelle_Nassreinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Sehr-schonende-professionelle-Nassreinigung.jpg
+@Reinigungssymbole.Sehr_schonende_professionelle_Nassreinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Sehr-schonende-professionelle-Nassreinigung.jpg,@0)
 
-@Reinigungssymbole.Sehr_schonende_Reinigung_mit_Kohlenwasserstoffloesungsmittel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Sehr-schonende-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg
-@Reinigungssymbole.Sehr_schonende_Reinigung_mit_Kohlenwasserstoffloesungsmittel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Sehr-schonende-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg,@0)
+@Reinigungssymbole.Sehr_schonende_Reinigung_mit_Kohlenwasserstoffloesungsmittel.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Sehr-schonende-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg
+@Reinigungssymbole.Sehr_schonende_Reinigung_mit_Kohlenwasserstoffloesungsmittel: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Sehr-schonende-Reinigung-mit-Kohlenwasserstoffloesungsmittel.jpg,@0)
 
-@Reinigungssymbole.Sehr_schonende_Reinigung_mit_Perchlorethylen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Reinigungssymbole/Sehr-schonende-Reinigung-mit-Perchlorethylen.jpg
-@Reinigungssymbole.Sehr_schonende_Reinigung_mit_Perchlorethylen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Reinigungssymbole/Sehr-schonende-Reinigung-mit-Perchlorethylen.jpg,@0)
+@Reinigungssymbole.Sehr_schonende_Reinigung_mit_Perchlorethylen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Sehr-schonende-Reinigung-mit-Perchlorethylen.jpg
+@Reinigungssymbole.Sehr_schonende_Reinigung_mit_Perchlorethylen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Sehr-schonende-Reinigung-mit-Perchlorethylen.jpg,@0)
 
-@Trocknersymbole.Nicht_trommeltrocknen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Nicht-trommeltrocknen.jpg
-@Trocknersymbole.Nicht_trommeltrocknen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Nicht-trommeltrocknen.jpg,@0)
+@Trocknersymbole.Nicht_trommeltrocknen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Nicht-trommeltrocknen.jpg
+@Trocknersymbole.Nicht_trommeltrocknen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Nicht-trommeltrocknen.jpg,@0)
 
-@Trocknersymbole.Trocknen_im_schatten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trocknen-im-schatten.jpg
-@Trocknersymbole.Trocknen_im_schatten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trocknen-im-schatten.jpg,@0)
+@Trocknersymbole.Trocknen_im_schatten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trocknen-im-schatten.jpg
+@Trocknersymbole.Trocknen_im_schatten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trocknen-im-schatten.jpg,@0)
 
-@Trocknersymbole.Trocknen_Leine_im_schatten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trocknen-Leine-im-schatten.jpg
-@Trocknersymbole.Trocknen_Leine_im_schatten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trocknen-Leine-im-schatten.jpg,@0)
+@Trocknersymbole.Trocknen_Leine_im_schatten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trocknen-Leine-im-schatten.jpg
+@Trocknersymbole.Trocknen_Leine_im_schatten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trocknen-Leine-im-schatten.jpg,@0)
 
-@Trocknersymbole.Trocknen_Leine.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trocknen-Leine.jpg
-@Trocknersymbole.Trocknen_Leine: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trocknen-Leine.jpg,@0)
+@Trocknersymbole.Trocknen_Leine.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trocknen-Leine.jpg
+@Trocknersymbole.Trocknen_Leine: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trocknen-Leine.jpg,@0)
 
-@Trocknersymbole.Trocknen_liegend_im_schatten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trocknen-liegend-im-schatten.jpg
-@Trocknersymbole.Trocknen_liegend_im_schatten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trocknen-liegend-im-schatten.jpg,@0)
+@Trocknersymbole.Trocknen_liegend_im_schatten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trocknen-liegend-im-schatten.jpg
+@Trocknersymbole.Trocknen_liegend_im_schatten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trocknen-liegend-im-schatten.jpg,@0)
 
-@Trocknersymbole.Trocknen_liegend.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trocknen-liegend.jpg
-@Trocknersymbole.Trocknen_liegend: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trocknen-liegend.jpg,@0)
+@Trocknersymbole.Trocknen_liegend.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trocknen-liegend.jpg
+@Trocknersymbole.Trocknen_liegend: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trocknen-liegend.jpg,@0)
 
-@Trocknersymbole.Trocknen_tropfnass_im_schatten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trocknen-tropfnass-im-schatten.jpg
-@Trocknersymbole.Trocknen_tropfnass_im_schatten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trocknen-tropfnass-im-schatten.jpg,@0)
+@Trocknersymbole.Trocknen_tropfnass_im_schatten.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trocknen-tropfnass-im-schatten.jpg
+@Trocknersymbole.Trocknen_tropfnass_im_schatten: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trocknen-tropfnass-im-schatten.jpg,@0)
 
-@Trocknersymbole.Trocknen_tropfnass.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trocknen-tropfnass.jpg
-@Trocknersymbole.Trocknen_tropfnass: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trocknen-tropfnass.jpg,@0)
+@Trocknersymbole.Trocknen_tropfnass.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trocknen-tropfnass.jpg
+@Trocknersymbole.Trocknen_tropfnass: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trocknen-tropfnass.jpg,@0)
 
-@Trocknersymbole.Trocknen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trocknen.jpg
-@Trocknersymbole.Trocknen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trocknen.jpg,@0)
+@Trocknersymbole.Trocknen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trocknen.jpg
+@Trocknersymbole.Trocknen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trocknen.jpg,@0)
 
-@Trocknersymbole.Trommeltrocknen_niedrige_Temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trommeltrocknen-niedrige-Temperatur.jpg
-@Trocknersymbole.Trommeltrocknen_niedrige_Temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trommeltrocknen-niedrige-Temperatur.jpg,@0)
+@Trocknersymbole.Trommeltrocknen_niedrige_Temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trommeltrocknen-niedrige-Temperatur.jpg
+@Trocknersymbole.Trommeltrocknen_niedrige_Temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trommeltrocknen-niedrige-Temperatur.jpg,@0)
 
-@Trocknersymbole.Trommeltrocknen_normale_Temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trommeltrocknen-normale-Temperatur.jpg
-@Trocknersymbole.Trommeltrocknen_normale_Temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trommeltrocknen-normale-Temperatur.jpg,@0)
+@Trocknersymbole.Trommeltrocknen_normale_Temperatur.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trommeltrocknen-normale-Temperatur.jpg
+@Trocknersymbole.Trommeltrocknen_normale_Temperatur: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trommeltrocknen-normale-Temperatur.jpg,@0)
 
-@Trocknersymbole.Trommeltrocknen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Trocknersymbole/Trommeltrocknen.jpg
-@Trocknersymbole.Trommeltrocknen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Trocknersymbole/Trommeltrocknen.jpg,@0)
+@Trocknersymbole.Trommeltrocknen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trommeltrocknen.jpg
+@Trocknersymbole.Trommeltrocknen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trommeltrocknen.jpg,@0)
 
-@Waschsymbole.Handwaesche.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Waschsymbole/Handwaesche.jpg
-@Waschsymbole.Handwaesche: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Waschsymbole/Handwaesche.jpg,@0)
+@Waschsymbole.Handwaesche.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Waschsymbole/Handwaesche.jpg
+@Waschsymbole.Handwaesche: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Waschsymbole/Handwaesche.jpg,@0)
 
-@Waschsymbole.Nicht_waschen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Waschsymbole/Nicht-waschen.jpg
-@Waschsymbole.Nicht_waschen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Waschsymbole/Nicht-waschen.jpg,@0)
+@Waschsymbole.Nicht_waschen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Waschsymbole/Nicht-waschen.jpg
+@Waschsymbole.Nicht_waschen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Waschsymbole/Nicht-waschen.jpg,@0)
 
-@Waschsymbole.waschen_bei_30_grad_schonend.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Waschsymbole/waschen-bei-30-grad-schonend.jpg
-@Waschsymbole.waschen_bei_30_grad_schonend: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Waschsymbole/waschen-bei-30-grad-schonend.jpg,@0)
+@Waschsymbole.waschen_bei_30_grad_schonend.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Waschsymbole/waschen-bei-30-grad-schonend.jpg
+@Waschsymbole.waschen_bei_30_grad_schonend: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Waschsymbole/waschen-bei-30-grad-schonend.jpg,@0)
 
-@Waschsymbole.waschen_bei_30_grad_sehr_schonend.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Waschsymbole/waschen-bei-30-grad-sehr-schonend.jpg
-@Waschsymbole.waschen_bei_30_grad_sehr_schonend: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Waschsymbole/waschen-bei-30-grad-sehr-schonend.jpg,@0)
+@Waschsymbole.waschen_bei_30_grad_sehr_schonend.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Waschsymbole/waschen-bei-30-grad-sehr-schonend.jpg
+@Waschsymbole.waschen_bei_30_grad_sehr_schonend: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Waschsymbole/waschen-bei-30-grad-sehr-schonend.jpg,@0)
 
-@Waschsymbole.waschen_bei_30_grad.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img/Waschsymbole/waschen-bei-30-grad.jpg
-@Waschsymbole.waschen_bei_30_grad: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/img,Waschsymbole/waschen-bei-30-grad.jpg,@0)
+@Waschsymbole.waschen_bei_30_grad.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Waschsymbole/waschen-bei-30-grad.jpg
+@Waschsymbole.waschen_bei_30_grad: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Waschsymbole/waschen-bei-30-grad.jpg,@0)
 -->
 
 # Link zu LiaScript
-[![LiaScript Course](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md)
+[![LiaScript Course](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md)
 
 > Diese Datei ist automatisch generiert und enthält Makros für die DiAgnostiK-Bilder der Gewerke.
 
