@@ -15,7 +15,7 @@ makros_setup: |
   @end
   
 
-repository: "https://github.com/Ifi-DiAgnostiK-Project/Bildersammlung"
+repository: "https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole"
 makro_file: "makros.md"
 image_folder: "img"
 
