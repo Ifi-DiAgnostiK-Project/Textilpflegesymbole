@@ -14,6 +14,8 @@ img {
  max-height: fit-content;
 }
 @end
+@Bleichsymbole.licence: Bildquellen: © by GINETEX GERMANY, www.ginetex.de
+
 
 @Bleichsymbole.Bleichen_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Bleichsymbole/Bleichen-erlaubt.jpg
 @Bleichsymbole.Bleichen_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Bleichsymbole/Bleichen-erlaubt.jpg,@0)
@@ -23,6 +25,8 @@ img {
 
 @Bleichsymbole.Sauerstoffbleichen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Bleichsymbole/Sauerstoffbleichen.jpg
 @Bleichsymbole.Sauerstoffbleichen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Bleichsymbole/Sauerstoffbleichen.jpg,@0)
+@Buegelsymbole.licence: Bildquellen: © by GINETEX GERMANY, www.ginetex.de
+
 
 @Buegelsymbole.Buegeln_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Buegelsymbole/Buegeln-erlaubt.jpg
 @Buegelsymbole.Buegeln_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Buegelsymbole/Buegeln-erlaubt.jpg,@0)
@@ -38,6 +42,8 @@ img {
 
 @Buegelsymbole.buegeln_nicht_erlaubt.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Buegelsymbole/buegeln-nicht-erlaubt.jpg
 @Buegelsymbole.buegeln_nicht_erlaubt: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Buegelsymbole/buegeln-nicht-erlaubt.jpg,@0)
+@Reinigungssymbole.licence: Bildquellen: © by GINETEX GERMANY, www.ginetex.de
+
 
 @Reinigungssymbole.keine_chemische_reinigung.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/keine-chemische-reinigung.jpg
 @Reinigungssymbole.keine_chemische_reinigung: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/keine-chemische-reinigung.jpg,@0)
@@ -74,6 +80,8 @@ img {
 
 @Reinigungssymbole.Sehr_schonende_Reinigung_mit_Perchlorethylen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Reinigungssymbole/Sehr-schonende-Reinigung-mit-Perchlorethylen.jpg
 @Reinigungssymbole.Sehr_schonende_Reinigung_mit_Perchlorethylen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Reinigungssymbole/Sehr-schonende-Reinigung-mit-Perchlorethylen.jpg,@0)
+@Trocknersymbole.licence: Bildquellen: © by GINETEX GERMANY, www.ginetex.de
+
 
 @Trocknersymbole.Nicht_trommeltrocknen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Nicht-trommeltrocknen.jpg
 @Trocknersymbole.Nicht_trommeltrocknen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Nicht-trommeltrocknen.jpg,@0)
@@ -110,6 +118,8 @@ img {
 
 @Trocknersymbole.Trommeltrocknen.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Trocknersymbole/Trommeltrocknen.jpg
 @Trocknersymbole.Trommeltrocknen: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Trocknersymbole/Trommeltrocknen.jpg,@0)
+@Waschsymbole.licence: Bildquellen: © by GINETEX GERMANY, www.ginetex.de
+
 
 @Waschsymbole.Handwaesche.src: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img/Waschsymbole/Handwaesche.jpg
 @Waschsymbole.Handwaesche: @diagnostik_image(https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/img,Waschsymbole/Handwaesche.jpg,@0)
@@ -161,6 +171,11 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Bleichsymbole
 
+
+© by GINETEX GERMANY, www.ginetex.de
+
+
+mit `@Bleichsymbole.licence` kann der Text ausgegeben werden.
 <!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
@@ -170,6 +185,11 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Buegelsymbole
 
+
+© by GINETEX GERMANY, www.ginetex.de
+
+
+mit `@Buegelsymbole.licence` kann der Text ausgegeben werden.
 <!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
@@ -181,6 +201,11 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Reinigungssymbole
 
+
+© by GINETEX GERMANY, www.ginetex.de
+
+
+mit `@Reinigungssymbole.licence` kann der Text ausgegeben werden.
 <!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
@@ -199,6 +224,11 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Trocknersymbole
 
+
+© by GINETEX GERMANY, www.ginetex.de
+
+
+mit `@Trocknersymbole.licence` kann der Text ausgegeben werden.
 <!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
@@ -217,6 +247,11 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Waschsymbole
 
+
+© by GINETEX GERMANY, www.ginetex.de
+
+
+mit `@Waschsymbole.licence` kann der Text ausgegeben werden.
 <!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
