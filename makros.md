@@ -176,7 +176,9 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 
 mit `@Bleichsymbole.licence` kann der Text ausgegeben werden.
-<!-- START OF TABLE -->
+
+> @Bleichsymbole.licence
+
 |Bild|Name|Befehl|
 |---|---|---|
 |@Bleichsymbole.Bleichen_erlaubt(10)|_Bleichen erlaubt_|`@Bleichsymbole.Bleichen_erlaubt(10)`|
@@ -190,7 +192,9 @@ mit `@Bleichsymbole.licence` kann der Text ausgegeben werden.
 
 
 mit `@Buegelsymbole.licence` kann der Text ausgegeben werden.
-<!-- START OF TABLE -->
+
+> @Buegelsymbole.licence
+
 |Bild|Name|Befehl|
 |---|---|---|
 |@Buegelsymbole.Buegeln_erlaubt(10)|_Buegeln erlaubt_|`@Buegelsymbole.Buegeln_erlaubt(10)`|
@@ -206,7 +210,9 @@ mit `@Buegelsymbole.licence` kann der Text ausgegeben werden.
 
 
 mit `@Reinigungssymbole.licence` kann der Text ausgegeben werden.
-<!-- START OF TABLE -->
+
+> @Reinigungssymbole.licence
+
 |Bild|Name|Befehl|
 |---|---|---|
 |@Reinigungssymbole.keine_chemische_reinigung(10)|_keine chemische reinigung_|`@Reinigungssymbole.keine_chemische_reinigung(10)`|
@@ -229,7 +235,9 @@ mit `@Reinigungssymbole.licence` kann der Text ausgegeben werden.
 
 
 mit `@Trocknersymbole.licence` kann der Text ausgegeben werden.
-<!-- START OF TABLE -->
+
+> @Trocknersymbole.licence
+
 |Bild|Name|Befehl|
 |---|---|---|
 |@Trocknersymbole.Nicht_trommeltrocknen(10)|_Nicht trommeltrocknen_|`@Trocknersymbole.Nicht_trommeltrocknen(10)`|
@@ -252,7 +260,9 @@ mit `@Trocknersymbole.licence` kann der Text ausgegeben werden.
 
 
 mit `@Waschsymbole.licence` kann der Text ausgegeben werden.
-<!-- START OF TABLE -->
+
+> @Waschsymbole.licence
+
 |Bild|Name|Befehl|
 |---|---|---|
 |@Waschsymbole.Handwaesche(10)|_Handwaesche_|`@Waschsymbole.Handwaesche(10)`|
