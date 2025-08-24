@@ -161,6 +161,7 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Bleichsymbole
 
+<!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
 |@Bleichsymbole.Bleichen_erlaubt(10)|_Bleichen erlaubt_|`@Bleichsymbole.Bleichen_erlaubt(10)`|
@@ -169,6 +170,7 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Buegelsymbole
 
+<!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
 |@Buegelsymbole.Buegeln_erlaubt(10)|_Buegeln erlaubt_|`@Buegelsymbole.Buegeln_erlaubt(10)`|
@@ -179,6 +181,7 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Reinigungssymbole
 
+<!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
 |@Reinigungssymbole.keine_chemische_reinigung(10)|_keine chemische reinigung_|`@Reinigungssymbole.keine_chemische_reinigung(10)`|
@@ -196,6 +199,7 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Trocknersymbole
 
+<!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
 |@Trocknersymbole.Nicht_trommeltrocknen(10)|_Nicht trommeltrocknen_|`@Trocknersymbole.Nicht_trommeltrocknen(10)`|
@@ -213,6 +217,7 @@ Im Nachfolgenden sind alle Bilder aller Bereiche und passende Befehle aufgeliste
 
 ### Waschsymbole
 
+<!-- START OF TABLE -->
 |Bild|Name|Befehl|
 |---|---|---|
 |@Waschsymbole.Handwaesche(10)|_Handwaesche_|`@Waschsymbole.Handwaesche(10)`|
