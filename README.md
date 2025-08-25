@@ -21,6 +21,7 @@ attribute: all images: © by GINETEX GERMANY, www.ginetex.de
 # DiAgnostiK Textilpflegesymbole
 
 Repository für Textilpflegesymbole nach ISO 3758:2023.
+
 Alle Bilder sind © by GINETEX GERMANY, [www.ginetex.de](www.ginetex.de)
 
 - Link zur LiaScript [Bildhilfe](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#24)! 😃
@@ -53,7 +54,7 @@ Alle Beispiele funktionieren nur mit LiaScript und nicht hier im Github! Bitte o
 ![Beispielzeichen](https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/Trocknersymbole/Trocknen.jpg?raw=true)<!-- style="height: 10rem;" -->
 ```
 
-![Beispielzeichen](https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/Trocknersymbole/Trocknen_Grundsymbol.png?raw=true)<!-- style="height: 10rem;" -->
+![Beispielzeichen](https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/Waschsymbole/Handwaesche-max-40-grad.png?raw=true)<!-- style="height: 10rem;" -->
 
 ### Skalierung
 
