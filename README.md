@@ -1,8 +1,9 @@
 <!--
 author: Volker Göhler
-version: 0.0.1
+version: 0.0.2
 comment: This repository is a collection of textile care signs for the DiAgnostiK Project
 @import: https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/makros.md?raw=true
+attribute: all images: © by GINETEX GERMANY, www.ginetex.de
 
 
 -->
@@ -18,7 +19,9 @@ comment: This repository is a collection of textile care signs for the DiAgnosti
 [![GitHub](https://img.shields.io/badge/Ansehen%20auf-GitHub-181717?logo=github)](https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/README.md)
 
 # DiAgnostiK Textilpflegesymbole
+
 Repository für Textilpflegesymbole nach ISO 3758:2023.
+Alle Bilder sind © by GINETEX GERMANY, [www.ginetex.de](www.ginetex.de)
 
 - Link zur LiaScript [Bildhilfe](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#24)! 😃
 
@@ -55,6 +58,10 @@ Alle Beispiele funktionieren nur mit LiaScript und nicht hier im Github! Bitte o
 ### Skalierung
 
 Der Parameter (die Zahl in den runden Klammern) steuert die Größe in Zeilenhöhe des Textes.
+
+> `@Reinigungssymbole.license`
+
+@Reinigungssymbole.license
 
 > `@Reinigungssymbole.Professionelle-reinigung(10)`
 @Reinigungssymbole.Professionelle-reinigung(10)
