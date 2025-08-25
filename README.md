@@ -1,6 +1,6 @@
 <!--
 author: Volker Göhler
-version: 0.0.2
+version: 0.0.3
 comment: This repository is a collection of textile care signs for the DiAgnostiK Project
 @import: https://github.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/blob/main/makros.md?raw=true
 attribute: all images: © by GINETEX GERMANY, www.ginetex.de
