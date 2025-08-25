@@ -64,14 +64,14 @@ Der Parameter (die Zahl in den runden Klammern) steuert die Größe in Zeilenhö
 
 @Reinigungssymbole.license
 
-> `@Reinigungssymbole.Professionelle-reinigung(10)`
-@Reinigungssymbole.Professionelle-reinigung(10)
+> `@Reinigungssymbole.Professionelle-Nassreinigung(10)`
+@Reinigungssymbole.Professionelle-Nassreinigung(10)
 
-> `@Reinigungssymbole.Professionelle-reinigung(5)`
-@Reinigungssymbole.Professionelle-reinigung(5)
+> `@Reinigungssymbole.Professionelle-Nassreinigung(5)`
+@Reinigungssymbole.Professionelle-Nassreinigung(5)
 
-> `@Reinigungssymbole.Professionelle-reinigung(1)`
-@Reinigungssymbole.Professionelle-reinigung(1)
+> `@Reinigungssymbole.Professionelle-Nassreinigung(1)`
+@Reinigungssymbole.Professionelle-Nassreinigung(1)
 
 ## Bildermakros
 
